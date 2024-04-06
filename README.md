@@ -1,2 +1,2 @@
 # myproject
-this repo created by <name style="color : red;">ahmed tarig</name>
+this repo created by <p style="color : red;">ahmed tarig</p>
